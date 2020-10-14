@@ -1,2 +1,5 @@
 .vscode/.ropeproject
 **__pycache__
+dist
+**egg-info
+build

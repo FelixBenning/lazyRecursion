@@ -6,13 +6,13 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(name='lazyRecursion',
-      version='0.1',
+      version='0.1.1',
       author='Felix Benning',
       author_email='felix.benning@gmail.com',
       description='lazy RecursiveSequence with optional caching',
       long_description=long_description,
       long_description_content_type='text/markdown',
-      url='https://github.com/FelixBenning/lazyConfig',
+      url='https://github.com/FelixBenning/lazyRecursion',
       py_modules=['lazyRecursion'],
       classifiers=[
             "Programming Language :: Python :: 3",
